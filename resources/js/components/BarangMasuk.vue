@@ -45,7 +45,7 @@
 
         <div class="modal-actions">
           <button @click="submitBarangMasuk" class="btn-save" :disabled="isLoading">
-            <span v-if="isLoading" class="spinner"></span>
+            <span v-if="isLoading" class="spinner-small"></span>
             <span v-else>Simpan</span>
           </button>
           <button @click="showModal = false" class="btn-cancel" :disabled="isLoading">

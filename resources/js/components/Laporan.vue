@@ -1,6 +1,8 @@
 <template>
-  <div class="laporan-container">
-    <h2>Laporan Barang</h2>
+      <div class="table-container">
+    <div class="table-header">
+      <h2 class="table-title">Laporan Barang</h2>
+    </div>
 
     <div class="filter-container">
       <input type="date" v-model="filterStart" />
