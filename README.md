@@ -60,7 +60,7 @@ Frontend:
 - php artisan serve (Laravel)
 - npm run dev (Vue.js)
 
-6. Selesai, Sistem sudah bisa digunakan
+6. Selesai, Sistem sudah bisa digunakan dan link bisa diakses pada (http://127.0.0.1:8000)
 
 -----------
 
