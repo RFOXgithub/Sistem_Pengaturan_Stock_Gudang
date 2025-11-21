@@ -40,12 +40,12 @@ Frontend:
 - Buka CMD 
 - Pilih path untuk simpan foldernya (User XAMPP biasanya  HTDOCS)
 - cd PATH/YANG/INGIN/DITUJU
-- Setelah itu masukan code ini (git clone https://github.com/RFOXgithub/Sistem_Pengaturan_Stock_Gudang)
+- Setelah itu masukan code ini (git clone https://github.com/RFOXgithub/warehouse-stock-management)
  
 1.b Clone Repository GitHub lewat VS Studi Code
 - Buka aplikasi VS Studio Code
 - Pada bagian Start atau Halaman Utama Pilih (Clone Git Repository)
-- Masukan link repositorynya (https://github.com/RFOXgithub/Sistem_Pengaturan_Stock_Gudang)
+- Masukan link repositorynya (https://github.com/RFOXgithub/warehouse-stock-management)
 
 2. Import Database dengan nama file elitechintern.sql
 
