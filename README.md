@@ -40,12 +40,12 @@ Frontend:
 - Buka CMD 
 - Pilih path untuk simpan foldernya (User XAMPP biasanya  HTDOCS)
 - cd PATH/YANG/INGIN/DITUJU
-- Setelah itu masukan code ini (git clone https://github.com/RFOXgithub/warehouse-stock-management)
+- Setelah itu masukan code ini (git clone https://github.com/RFOXgithub/warehouse-stock-management-laravel-vue)
  
 1.b Clone Repository GitHub lewat VS Studi Code
 - Buka aplikasi VS Studio Code
 - Pada bagian Start atau Halaman Utama Pilih (Clone Git Repository)
-- Masukan link repositorynya (https://github.com/RFOXgithub/warehouse-stock-management)
+- Masukan link repositorynya (https://github.com/RFOXgithub/warehouse-stock-management-laravel-vue)
 
 2. Import Database dengan nama file elitechintern.sql
 
