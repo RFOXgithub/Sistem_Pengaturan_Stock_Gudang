@@ -67,7 +67,7 @@ DB_USERNAME=root
 
 DB_PASSWORD=
 
-- Pada CMD masukan (php artisan key:generate)
+- Pada CMD masukan (php artisan key:generate) pada folder repository
 - Kemudian masukan lagi (composer install) pada CMD
 - Lakukan pembersihkan cache jika di perlukan
 
